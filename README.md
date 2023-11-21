@@ -30,8 +30,5 @@ As a construction worker, you must navigate the screen and address different spa
 - Date: July 2017
 - Theme: Running out of Power
 
-### Contributions
-Feel free to fork this repository, make changes, and submit pull requests for improvements or fixes!
-
 ### License
 This project is licensed under MIT License
