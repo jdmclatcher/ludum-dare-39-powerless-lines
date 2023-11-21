@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b535a6360580f754da7360325f0e3371
+timeCreated: 1501523368
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 100
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bluprint
+  fontNames:
+  - Bluprint
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
